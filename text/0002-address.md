@@ -1,5 +1,5 @@
 - **TEP**: [2](https://github.com/ton-blockchain/TEPs/pull/2)
-- **title**: TON Addresses
+- **title**: TON
 - **status**: Active
 - **type**: Core
 - **authors**: -
